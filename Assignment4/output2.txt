@@ -1,0 +1,70 @@
+Choice		Action
+------		------
+A		Add Project
+D		Display Project
+Q		Quit
+R		Add Expenditure
+?		Display Help
+
+What action would you like to perform?
+Please enter the project information:
+Enter a project name:
+Enter a project number:
+Enter a project location:
+Enter a project initial funding:
+What action would you like to perform?
+
+Project Name:		Farming Project
+Project Number:		7
+Project Location:	Phoenix
+Budget:
+Initial Funding	$10,101,101.00
+Spending	$0.00
+Current Balance	$10,101,101.00
+
+What action would you like to perform?
+Please enter any additional expenditure:
+What action would you like to perform?
+
+Project Name:		Farming Project
+Project Number:		7
+Project Location:	Phoenix
+Budget:
+Initial Funding	$10,101,101.00
+Spending	$5,000.50
+Current Balance	$10,096,100.50
+
+What action would you like to perform?
+Please enter any additional expenditure:
+What action would you like to perform?
+
+Project Name:		Farming Project
+Project Number:		7
+Project Location:	Phoenix
+Budget:
+Initial Funding	$10,101,101.00
+Spending	$17,000.90
+Current Balance	$10,084,100.10
+
+What action would you like to perform?
+Please enter any additional expenditure:
+What action would you like to perform?
+
+Project Name:		Farming Project
+Project Number:		7
+Project Location:	Phoenix
+Budget:
+Initial Funding	$10,101,101.00
+Spending	$20,453.33
+Current Balance	$10,080,647.67
+
+What action would you like to perform?
+Choice		Action
+------		------
+A		Add Project
+D		Display Project
+Q		Quit
+R		Add Expenditure
+?		Display Help
+
+What action would you like to perform?

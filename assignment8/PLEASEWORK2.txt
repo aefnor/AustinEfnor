@@ -1,0 +1,243 @@
+Choice		Action
+------		------
+A		Add Project
+D		Search for ProjNumber
+E		Search for Name and Location
+L		List Projects
+O		Sort by ProjNumber
+P		Sort by Name and Location
+Q		Quit
+R		Remove by ProjNumber
+S		Remove by Name and Location
+T		Close ProjectManagement
+U		Write Text to File
+V		Read Text from File
+W		Serialize ProjectManagement to File
+X		Deserialize ProjectManagement from File
+?		Display Help
+
+What action would you like to perform?
+Please enter a project name to add:
+Please enter its projNumber to add:
+Please enter its location to add:
+Please enter its initial budget to add:
+project added
+What action would you like to perform?
+Please enter a project name to add:
+Please enter its projNumber to add:
+Please enter its location to add:
+Please enter its initial budget to add:
+project added
+What action would you like to perform?
+Please enter a project name to add:
+Please enter its projNumber to add:
+Please enter its location to add:
+Please enter its initial budget to add:
+project added
+What action would you like to perform?
+Please enter a project name to add:
+Please enter its projNumber to add:
+Please enter its location to add:
+Please enter its initial budget to add:
+project added
+What action would you like to perform?
+Please enter a project name to add:
+Please enter its projNumber to add:
+Please enter its location to add:
+Please enter its initial budget to add:
+project added
+What action would you like to perform?
+
+
+Project Name:		Helping Children Project
+Project Number:		11
+Project Location:	Phoenix
+Budget:
+Initial Funding	$2,500,000.00
+Spending	$0.00
+Current Balance	$2,500,000.00
+
+
+Project Name:		Commercial Construction Project
+Project Number:		16
+Project Location:	Flagstaff
+Budget:
+Initial Funding	$5,000,000.00
+Spending	$0.00
+Current Balance	$5,000,000.00
+
+
+Project Name:		Mountain Project
+Project Number:		15
+Project Location:	Flagstaff
+Budget:
+Initial Funding	$5,000,000.00
+Spending	$0.00
+Current Balance	$5,000,000.00
+
+
+Project Name:		Runners Project
+Project Number:		23
+Project Location:	Phoenix
+Budget:
+Initial Funding	$2,500,000.00
+Spending	$0.00
+Current Balance	$2,500,000.00
+
+
+Project Name:		Dance Project
+Project Number:		21
+Project Location:	Tucson
+Budget:
+Initial Funding	$19,000,000.00
+Spending	$0.00
+Current Balance	$19,000,000.00
+
+
+What action would you like to perform?
+sorted by project names and locations
+What action would you like to perform?
+
+
+Project Name:		Dance Project
+Project Number:		21
+Project Location:	Tucson
+Budget:
+Initial Funding	$19,000,000.00
+Spending	$0.00
+Current Balance	$19,000,000.00
+
+
+Project Name:		Runners Project
+Project Number:		23
+Project Location:	Phoenix
+Budget:
+Initial Funding	$2,500,000.00
+Spending	$0.00
+Current Balance	$2,500,000.00
+
+
+Project Name:		Helping Children Project
+Project Number:		11
+Project Location:	Phoenix
+Budget:
+Initial Funding	$2,500,000.00
+Spending	$0.00
+Current Balance	$2,500,000.00
+
+
+Project Name:		Mountain Project
+Project Number:		15
+Project Location:	Flagstaff
+Budget:
+Initial Funding	$5,000,000.00
+Spending	$0.00
+Current Balance	$5,000,000.00
+
+
+Project Name:		Commercial Construction Project
+Project Number:		16
+Project Location:	Flagstaff
+Budget:
+Initial Funding	$5,000,000.00
+Spending	$0.00
+Current Balance	$5,000,000.00
+
+
+What action would you like to perform?
+sorted by projNumber
+What action would you like to perform?
+
+
+Project Name:		Runners Project
+Project Number:		23
+Project Location:	Phoenix
+Budget:
+Initial Funding	$2,500,000.00
+Spending	$0.00
+Current Balance	$2,500,000.00
+
+
+Project Name:		Dance Project
+Project Number:		21
+Project Location:	Tucson
+Budget:
+Initial Funding	$19,000,000.00
+Spending	$0.00
+Current Balance	$19,000,000.00
+
+
+Project Name:		Commercial Construction Project
+Project Number:		16
+Project Location:	Flagstaff
+Budget:
+Initial Funding	$5,000,000.00
+Spending	$0.00
+Current Balance	$5,000,000.00
+
+
+Project Name:		Mountain Project
+Project Number:		15
+Project Location:	Flagstaff
+Budget:
+Initial Funding	$5,000,000.00
+Spending	$0.00
+Current Balance	$5,000,000.00
+
+
+Project Name:		Helping Children Project
+Project Number:		11
+Project Location:	Phoenix
+Budget:
+Initial Funding	$2,500,000.00
+Spending	$0.00
+Current Balance	$2,500,000.00
+
+
+What action would you like to perform?
+Please enter a name to remove:
+Please enter a location to remove:
+project name and location not found
+What action would you like to perform?
+Please enter projNumber to remove:
+projNumber removed
+What action would you like to perform?
+
+
+Project Name:		Runners Project
+Project Number:		23
+Project Location:	Phoenix
+Budget:
+Initial Funding	$2,500,000.00
+Spending	$0.00
+Current Balance	$2,500,000.00
+
+
+Project Name:		Dance Project
+Project Number:		21
+Project Location:	Tucson
+Budget:
+Initial Funding	$19,000,000.00
+Spending	$0.00
+Current Balance	$19,000,000.00
+
+
+Project Name:		Commercial Construction Project
+Project Number:		16
+Project Location:	Flagstaff
+Budget:
+Initial Funding	$5,000,000.00
+Spending	$0.00
+Current Balance	$5,000,000.00
+
+
+Project Name:		Helping Children Project
+Project Number:		11
+Project Location:	Phoenix
+Budget:
+Initial Funding	$2,500,000.00
+Spending	$0.00
+Current Balance	$2,500,000.00
+
+
+What action would you like to perform?

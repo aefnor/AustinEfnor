@@ -1,0 +1,119 @@
+Choice		Action
+------		------
+A		Add Project
+D		Display Project
+Q		Quit
+R		Add Expenditure
+?		Display Help
+
+What action would you like to perform?
+Please enter the project information:
+Enter a project name:
+Enter a project number:
+Enter a project location:
+Enter a project initial funding:
+What action would you like to perform?
+
+Project Name:		Helping Children Project
+Project Number:		11
+Project Location:	Phoenix
+Budget:
+Initial Funding	$2,500,000.00
+Spending	$0.00
+Current Balance	$2,500,000.00
+
+What action would you like to perform?
+Please enter any additional expenditure:
+What action would you like to perform?
+
+Project Name:		Helping Children Project
+Project Number:		11
+Project Location:	Phoenix
+Budget:
+Initial Funding	$2,500,000.00
+Spending	$4,002.40
+Current Balance	$2,495,997.60
+
+What action would you like to perform?
+Please enter any additional expenditure:
+The entered expenditure is not accepted
+What action would you like to perform?
+
+Project Name:		Helping Children Project
+Project Number:		11
+Project Location:	Phoenix
+Budget:
+Initial Funding	$2,500,000.00
+Spending	$4,002.40
+Current Balance	$2,495,997.60
+
+What action would you like to perform?
+Please enter the project information:
+Enter a project name:
+Enter a project number:
+Enter a project location:
+Enter a project initial funding:
+What action would you like to perform?
+
+Project Name:		Commercial Construction Project
+Project Number:		15
+Project Location:	Flagstaff
+Budget:
+Initial Funding	$5,000,000.00
+Spending	$0.00
+Current Balance	$5,000,000.00
+
+What action would you like to perform?
+Please enter any additional expenditure:
+The entered expenditure is not accepted
+What action would you like to perform?
+
+Project Name:		Commercial Construction Project
+Project Number:		15
+Project Location:	Flagstaff
+Budget:
+Initial Funding	$5,000,000.00
+Spending	$0.00
+Current Balance	$5,000,000.00
+
+What action would you like to perform?
+Please enter the project information:
+Enter a project name:
+Enter a project number:
+Enter a project location:
+Enter a project initial funding:
+What action would you like to perform?
+
+Project Name:		Mountain Project
+Project Number:		16
+Project Location:	Flagstaff
+Budget:
+Initial Funding	$5,000,000.00
+Spending	$0.00
+Current Balance	$5,000,000.00
+
+What action would you like to perform?
+Please enter any additional expenditure:
+What action would you like to perform?
+
+Project Name:		Mountain Project
+Project Number:		16
+Project Location:	Flagstaff
+Budget:
+Initial Funding	$5,000,000.00
+Spending	$2,500,000.00
+Current Balance	$2,500,000.00
+
+What action would you like to perform?
+Please enter any additional expenditure:
+What action would you like to perform?
+
+Project Name:		Mountain Project
+Project Number:		16
+Project Location:	Flagstaff
+Budget:
+Initial Funding	$5,000,000.00
+Spending	$2,500,005.00
+Current Balance	$2,499,995.00
+
+What action would you like to perform?

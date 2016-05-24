@@ -1,0 +1,37 @@
+A
+Helping Children Project
+11
+Phoenix
+2500000.00
+A
+Commercial Construction Project
+16
+Flagstaff
+5000000.00
+A
+Mountain Project
+15
+Flagstaff
+5000000.00
+A
+Runners Project
+23
+Phoenix
+2500000.00
+A
+Dance Project
+21
+Tucson
+19000000.00
+L
+P
+L
+O
+L
+S
+Runners Project
+Phoenix
+R
+15
+L
+Q

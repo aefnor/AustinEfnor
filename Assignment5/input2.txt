@@ -1,0 +1,11 @@
+A
+Member/Luke/Skywalker/355.24/2016/3/14/80
+?
+A
+NonMember/Han/Solo/500.50/2016/1/30/5.00
+A
+Member/Darth/Vader/300.55/2016/2/6/100
+L
+C
+L
+Q

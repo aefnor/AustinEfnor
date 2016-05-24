@@ -1,0 +1,84 @@
+Choice		Action
+------		------
+A		Add Customer
+C		Compute Payment Amount
+D		Count Certain Customers
+L		List Customers
+Q		Quit
+?		Display Help
+
+What action would you like to perform?
+Please enter some customer information to add:
+What action would you like to perform?
+Choice		Action
+------		------
+A		Add Customer
+C		Compute Payment Amount
+D		Count Certain Customers
+L		List Customers
+Q		Quit
+?		Display Help
+
+What action would you like to perform?
+Please enter some customer information to add:
+What action would you like to perform?
+Please enter some customer information to add:
+What action would you like to perform?
+
+Member Customer:
+First name:		Luke
+Last name:		Skywalker
+Purchased Amount:	$355.24
+Purchased Date:		3/14/2016
+Payment Amount:		$0.00
+Collected Points:	80
+
+
+NonMember Customer:
+First name:		Han
+Last name:		Solo
+Purchased Amount:	$500.50
+Purchased Date:		1/30/2016
+Payment Amount:		$0.00
+Visit Fee:		$5.00
+
+
+Member Customer:
+First name:		Darth
+Last name:		Vader
+Purchased Amount:	$300.55
+Purchased Date:		2/6/2016
+Payment Amount:		$0.00
+Collected Points:	100
+
+What action would you like to perform?
+payment amount computed
+What action would you like to perform?
+
+Member Customer:
+First name:		Luke
+Last name:		Skywalker
+Purchased Amount:	$355.24
+Purchased Date:		3/14/2016
+Payment Amount:		$319.72
+Collected Points:	83
+
+
+NonMember Customer:
+First name:		Han
+Last name:		Solo
+Purchased Amount:	$500.50
+Purchased Date:		1/30/2016
+Payment Amount:		$505.50
+Visit Fee:		$5.00
+
+
+Member Customer:
+First name:		Darth
+Last name:		Vader
+Purchased Amount:	$300.55
+Purchased Date:		2/6/2016
+Payment Amount:		$270.50
+Collected Points:	103
+
+What action would you like to perform?

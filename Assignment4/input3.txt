@@ -1,0 +1,34 @@
+A
+Helping Children Project
+11
+Phoenix
+2500000.00
+D
+R
+4002.40
+D
+R
+-1000.00
+D
+A
+Commercial Construction Project
+15
+Flagstaff
+5000000.00
+D
+R
+-420.25
+D
+A
+Mountain Project
+16
+Flagstaff
+5000000.00
+D
+R
+2500000.00
+D
+R
+5.00
+D
+Q

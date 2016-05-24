@@ -1,0 +1,161 @@
+Choice		Action
+------		------
+A		Add Project
+D		Search for ProjNumber
+E		Search for Name and Location
+L		List Projects
+O		Sort by ProjNumber
+P		Sort by Name and Location
+Q		Quit
+R		Remove by ProjNumber
+S		Remove by Name and Location
+T		Close ProjectManagement
+U		Write Text to File
+V		Read Text from File
+W		Serialize ProjectManagement to File
+X		Deserialize ProjectManagement from File
+?		Display Help
+
+What action would you like to perform?
+Please enter a project name to add:
+Please enter its projNumber to add:
+Please enter its location to add:
+Please enter its initial budget to add:
+project added
+What action would you like to perform?
+Please enter a project name to add:
+Please enter its projNumber to add:
+Please enter its location to add:
+Please enter its initial budget to add:
+project added
+What action would you like to perform?
+Please enter a project name to add:
+Please enter its projNumber to add:
+Please enter its location to add:
+Please enter its initial budget to add:
+project added
+What action would you like to perform?
+Please enter projNumber to search:
+projNumber found
+What action would you like to perform?
+Please enter projNumber to search:
+projNumber not found
+What action would you like to perform?
+Please enter projNumber to search:
+projNumber found
+What action would you like to perform?
+
+
+Project Name:		Grand Road Improvement Project
+Project Number:		3
+Project Location:	Tucson
+Budget:
+Initial Funding	$19,000,000.00
+Spending	$0.00
+Current Balance	$19,000,000.00
+
+Project Name:		Helping Children Project
+Project Number:		11
+Project Location:	Phoenix
+Budget:
+Initial Funding	$2,500,000.00
+Spending	$0.00
+Current Balance	$2,500,000.00
+
+Project Name:		Farming Project
+Project Number:		7
+Project Location:	Phoenix
+Budget:
+Initial Funding	$10,101,101.00
+Spending	$0.00
+Current Balance	$10,101,101.00
+
+What action would you like to perform?
+Please enter projNumber to remove:
+projNumber not found
+What action would you like to perform?
+
+
+Project Name:		Grand Road Improvement Project
+Project Number:		3
+Project Location:	Tucson
+Budget:
+Initial Funding	$19,000,000.00
+Spending	$0.00
+Current Balance	$19,000,000.00
+
+Project Name:		Helping Children Project
+Project Number:		11
+Project Location:	Phoenix
+Budget:
+Initial Funding	$2,500,000.00
+Spending	$0.00
+Current Balance	$2,500,000.00
+
+Project Name:		Farming Project
+Project Number:		7
+Project Location:	Phoenix
+Budget:
+Initial Funding	$10,101,101.00
+Spending	$0.00
+Current Balance	$10,101,101.00
+
+What action would you like to perform?
+Please enter projNumber to remove:
+projNumber removed
+What action would you like to perform?
+
+
+Project Name:		Helping Children Project
+Project Number:		11
+Project Location:	Phoenix
+Budget:
+Initial Funding	$2,500,000.00
+Spending	$0.00
+Current Balance	$2,500,000.00
+
+Project Name:		Farming Project
+Project Number:		7
+Project Location:	Phoenix
+Budget:
+Initial Funding	$10,101,101.00
+Spending	$0.00
+Current Balance	$10,101,101.00
+
+What action would you like to perform?
+Please enter a file name to write:
+project1.dat was written
+What action would you like to perform?
+project management system closed
+What action would you like to perform?
+
+
+no project
+
+
+What action would you like to perform?
+Please enter a file name to read:
+task1.dat was not found
+What action would you like to perform?
+Please enter a file name to read:
+project1.dat was read
+What action would you like to perform?
+
+
+Project Name:		Helping Children Project
+Project Number:		11
+Project Location:	Phoenix
+Budget:
+Initial Funding	$2,500,000.00
+Spending	$0.00
+Current Balance	$2,500,000.00
+
+Project Name:		Farming Project
+Project Number:		7
+Project Location:	Phoenix
+Budget:
+Initial Funding	$10,101,101.00
+Spending	$0.00
+Current Balance	$10,101,101.00
+
+What action would you like to perform?

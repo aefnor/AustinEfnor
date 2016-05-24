@@ -1,0 +1,38 @@
+A
+Grand Road Improvement Project
+3
+Tucson
+19000000.00
+A
+Helping Children Project
+11
+Phoenix
+2500000.00
+A
+Farming Project
+7
+Phoenix
+10101101.00
+D
+11
+D
+12
+D
+7
+L
+R
+-1
+L
+R
+3
+L
+W
+project1.dat
+T
+L
+X
+task1.dat
+X
+project1.dat
+L
+Q

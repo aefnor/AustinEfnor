@@ -1,0 +1,76 @@
+Choice		Action
+------		------
+A		Add Project
+D		Display Project
+Q		Quit
+R		Add Expenditure
+?		Display Help
+
+What action would you like to perform?
+Choice		Action
+------		------
+A		Add Project
+D		Display Project
+Q		Quit
+R		Add Expenditure
+?		Display Help
+
+What action would you like to perform?
+Please enter the project information:
+Enter a project name:
+Enter a project number:
+Enter a project location:
+Enter a project initial funding:
+What action would you like to perform?
+
+Project Name:		Runners Project
+Project Number:		21
+Project Location:	Phoenix
+Budget:
+Initial Funding	$2,500,000.00
+Spending	$0.00
+Current Balance	$2,500,000.00
+
+What action would you like to perform?
+Please enter the project information:
+Enter a project name:
+Enter a project number:
+Enter a project location:
+Enter a project initial funding:
+What action would you like to perform?
+
+Project Name:		Dance Project
+Project Number:		23
+Project Location:	Tucson
+Budget:
+Initial Funding	$19,000,000.00
+Spending	$0.00
+Current Balance	$19,000,000.00
+
+What action would you like to perform?
+Please enter any additional expenditure:
+What action would you like to perform?
+
+Project Name:		Dance Project
+Project Number:		23
+Project Location:	Tucson
+Budget:
+Initial Funding	$19,000,000.00
+Spending	$654.00
+Current Balance	$18,999,346.00
+
+What action would you like to perform?
+Please enter any additional expenditure:
+What action would you like to perform?
+
+Project Name:		Dance Project
+Project Number:		23
+Project Location:	Tucson
+Budget:
+Initial Funding	$19,000,000.00
+Spending	$1,411.25
+Current Balance	$18,998,588.75
+
+What action would you like to perform?
+Unknown action
+What action would you like to perform?

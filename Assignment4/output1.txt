@@ -1,0 +1,41 @@
+Choice		Action
+------		------
+A		Add Project
+D		Display Project
+Q		Quit
+R		Add Expenditure
+?		Display Help
+
+What action would you like to perform?
+Please enter the project information:
+Enter a project name:
+Enter a project number:
+Enter a project location:
+Enter a project initial funding:
+What action would you like to perform?
+
+Project Name:		Grand Road Improvement Project
+Project Number:		3
+Project Location:	Tucson
+Budget:
+Initial Funding	$19,000,000.00
+Spending	$0.00
+Current Balance	$19,000,000.00
+
+What action would you like to perform?
+Please enter the project information:
+Enter a project name:
+Enter a project number:
+Enter a project location:
+Enter a project initial funding:
+What action would you like to perform?
+
+Project Name:		Helping Children Project
+Project Number:		11
+Project Location:	Phoenix
+Budget:
+Initial Funding	$2,500,000.00
+Spending	$0.00
+Current Balance	$2,500,000.00
+
+What action would you like to perform?

@@ -1,0 +1,3 @@
+The minimum integer is 0
+The count of even integers in the sequence is 1
+The sum of negative integers is 0
